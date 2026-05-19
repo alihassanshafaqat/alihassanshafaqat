@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Android apps (Java & Kotlin)<br><br>👯 I’m looking to collaborate on Android projects<br><br>🤝 I’m looking for help with advanced Android development<br><br>🌱 I’m currently learning Jetpack Compose & MVVM<br><br>💬 Ask me about Android, Java, and Kotlin<br><br>⚡ Fun fact: I love building mobile apps
 
 
 ## 🌐 Socials:
